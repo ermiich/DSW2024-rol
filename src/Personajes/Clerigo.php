@@ -25,4 +25,5 @@ class Clerigo extends Personaje implements Curable
   {
     return $this->poderCurativo * 3;
   }
+  
 }
